@@ -507,7 +507,7 @@ a{
             display: grid; 
             grid-auto-columns: 1fr; 
             grid-template-columns: 1fr; 
-            grid-template-rows: 0.5fr 2fr 0.5fr; 
+            grid-template-rows: 0.5fr 2fr 0.5fr; //need a change because box2 is too big
             gap: 0px 0px; 
             grid-template-areas: 
                 "box1"
